@@ -1,6 +1,6 @@
 # Atividade de PAM (Programação de Aplicativos Mobile)
 
--- Português --
+##Português
 
 Repositório criado para atividade de PAM (Programação de Aplicativos Mobile) de desenvolver um app que consumisse uma API de clima.
 
@@ -14,7 +14,7 @@ Se você estiver tendo problemas, pode nos tweetar [@expo](https://twitter.com/e
 
 O Snack é Open Source. Você pode encontrar o código no [repositório GitHub](https://github.com/expo/snack).
 
--- English --
+##English
 
 Repository created for a Mobile Application Programming (PAM) activity to develop an app that consumes a weather API.
 
